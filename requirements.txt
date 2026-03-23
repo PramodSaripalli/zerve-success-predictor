@@ -7,3 +7,4 @@ numpy==1.26.4
 scikit-learn==1.5.2
 pyarrow==17.0.0
 pydantic==2.9.2
+python-version==3.11.9
