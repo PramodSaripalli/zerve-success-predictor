@@ -114,7 +114,7 @@ The model is trained on behavioral features only — no tier-defining features (
 
 A live REST endpoint that classifies any user and explains the prediction.
 
-**Base URL:** `http://localhost:8000`
+**Base URL:** `https://zerve-success-predictor-production.up.railway.app`
 
 ### Endpoints
 
