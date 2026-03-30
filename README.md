@@ -10,7 +10,7 @@
 
 **Which user behaviors are most predictive of long-term success on Zerve?**
 
-Success on a data platform isn't just signing up — it's when someone actually builds something, runs it, and comes back. To measure that, I defined a four-tier engagement ladder grounded in Zerve's actual platform mechanics. Then I built a full pipeline from raw event logs to a deployed prediction API that classifies any user and recommends exactly what to do to move them toward success.
+Success on a data platform isn't just signing up, it's when someone actually builds something, runs it, and comes back. To measure that, I defined a four-tier engagement ladder grounded in Zerve's actual platform mechanics. Then I built a full pipeline from raw event logs to a deployed prediction API that classifies any user and recommends exactly what to do to move them toward success.
 
 ---
 
