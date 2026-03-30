@@ -21,7 +21,7 @@ Raw Events (409,287 rows, 107 columns)
         ↓
   [Bronze]   Ingest, deduplicate on uuid
         ↓
-  [Silver]   107 → 35 clean columns, behavioral flags added
+  [Silver]   107 → 28 clean columns, behavioral flags added
         ↓
   [Gold]     One row per user, 53 features, 4-tier success labels
         ↓
