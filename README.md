@@ -171,7 +171,7 @@ The Engaged tier is almost entirely Python SDK developers. They look inactive in
 
 **3. Optimize for feature breadth, not depth**  
 
-Power Users use 20 unique event types in week one versus 1 for Visitors. Introducing users to multiple features early — not just one workflow — is what drives Power User growth.
+Power Users use 20 unique event types in week one versus 1 for Visitors. Introducing users to multiple features early, not just one workflow, is what drives Power User growth.
 
 **4. Don't remove the onboarding form**  
 
