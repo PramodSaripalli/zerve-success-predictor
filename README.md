@@ -161,16 +161,20 @@ Every prediction returns tier, risk level, confidence, top 3 SHAP drivers, and a
 
 Based on the analysis, here are four product interventions grounded directly in the findings:
 
-**1. Trigger the first AI chat as early as possible**
+**1. Trigger the first AI chat as early as possible**  
+
 Users who start an AI chat in week one are 6.8x more likely to become Power Users. The onboarding flow should make starting a chat the first action, not an optional step.
 
-**2. Build a separate retention track for SDK users**
+**2. Build a separate retention track for SDK users**  
+
 The Engaged tier is almost entirely Python SDK developers. They look inactive in the UI but are high-value. UI-based nudges won't reach them — they need API-level communication like usage emails or SDK-specific docs.
 
-**3. Optimize for feature breadth, not depth**
+**3. Optimize for feature breadth, not depth**  
+
 Power Users use 20 unique event types in week one versus 1 for Visitors. Introducing users to multiple features early — not just one workflow — is what drives Power User growth.
 
-**4. Don't remove the onboarding form**
+**4. Don't remove the onboarding form**  
+
 Users who submit the onboarding form show higher downstream engagement. It self-selects motivated users. It's a qualifying filter, not friction.
 
 ---
