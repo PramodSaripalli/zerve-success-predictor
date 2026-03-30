@@ -157,13 +157,3 @@ Every prediction returns tier, risk level, confidence, top 3 SHAP drivers, and a
 ```
 
 ---
-
-## Limitations
-
-**Tiers are analyst-defined.** Thresholds were calibrated to produce a meaningful distribution, not validated against Zerve's billing or retention data. Power Users show 0.93 days median session span vs 0.0 for Visitors as a retention proxy.
-
-**Optimal k=2 from clustering** means Explorer and Engaged are product-useful segments, not strongly distinct natural clusters.
-
-**Data covers Sep–Dec 2025 only.** Seasonal patterns or product changes during this window may affect generalizability.
-
----
