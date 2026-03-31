@@ -128,7 +128,7 @@ def root():
     return {
         "name":        "Zerve User Success Predictor",
         "version":     "2.0.0",
-        "killer_stat": "Users who start an AI chat in week 1 are 6.6x more likely to become Power Users",
+        "killer_stat": "Users who start an AI chat in week 1 are 6.8x more likely to become Power Users",
         "docs":        "/docs",
     }
 
